@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-negiritik01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiritik01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritik--negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-negi-39a1a32b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ritik--negi.vercel.app-FF6F91?style=for-the-badge&logo=vercel&logoColor=white)](https://ritik-negi.vercel.app/)
-[![Résumé](https://img.shields.io/badge/Download_Résumé-PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ritikNegi2022/ritikNegi2022/raw/main/assets/Ritik_Negi_SDE_2_Resume.pdf)
+[![Résumé](https://img.shields.io/badge/Download_Résumé-PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/b14nk-dev/b14nk-dev/raw/main/assets/Ritik_Negi_SDE_2_Resume.pdf)
 [![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-2D3748?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=New+Delhi,India)
 
 </div>
@@ -116,13 +116,13 @@ Reusable City, Product and Attraction pages across **10+ tourism sections**, plu
 <details>
 <summary><b>🧰 Open source & side work on GitHub</b></summary>
 
-- [`wc-clone-rust`](https://github.com/ritikNegi2022/wc-clone-rust) — Rust implementation of the Unix `wc` command: file I/O, string parsing, CLI argument handling.
-- [`better-cd`](https://github.com/ritikNegi2022/better-cd) — A drop-in replacement for `cd` that makes navigating the shell faster.
-- [`node-and-express-server-template`](https://github.com/ritikNegi2022/node-and-express-server-template) — Express starter with dynamic route registration and automatic controller error handling.
-- [`leetcode-with-rust`](https://github.com/ritikNegi2022/leetcode-with-rust) — LeetCode solutions written in Rust.
-- [`shipthatcode-js-fundamentals`](https://github.com/ritikNegi2022/shipthatcode-js-fundamentals) / [`shipthatcode-js-intermediate`](https://github.com/ritikNegi2022/shipthatcode-js-intermediate) — Practice problems and test harnesses for JavaScript.
-- [`nvim-config`](https://github.com/ritikNegi2022/nvim-config) — My personal Neovim workflow.
-- [`Terminal-Portofolio`](https://github.com/ritikNegi2022/Terminal-Portofolio) — A terminal-styled portfolio site.
+- [`wc-clone-rust`](https://github.com/b14nk-dev/wc-clone-rust) — Rust implementation of the Unix `wc` command: file I/O, string parsing, CLI argument handling.
+- [`better-cd`](https://github.com/b14nk-dev/better-cd) — A drop-in replacement for `cd` that makes navigating the shell faster.
+- [`node-and-express-server-template`](https://github.com/b14nk-dev/node-and-express-server-template) — Express starter with dynamic route registration and automatic controller error handling.
+- [`leetcode-with-rust`](https://github.com/b14nk-dev/leetcode-with-rust) — LeetCode solutions written in Rust.
+- [`shipthatcode-js-fundamentals`](https://github.com/b14nk-dev/shipthatcode-js-fundamentals) / [`shipthatcode-js-intermediate`](https://github.com/b14nk-dev/shipthatcode-js-intermediate) — Practice problems and test harnesses for JavaScript.
+- [`nvim-config`](https://github.com/b14nk-dev/nvim-config) — My personal Neovim workflow.
+- [`Terminal-Portofolio`](https://github.com/b14nk-dev/Terminal-Portofolio) — A terminal-styled portfolio site.
 
 </details>
 
@@ -131,17 +131,17 @@ Reusable City, Product and Attraction pages across **10+ tourism sections**, plu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikNegi2022&show_icons=true&include_all_commits=true&hide_border=true&border_radius=16&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ritik's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikNegi2022&layout=compact&hide_border=true&border_radius=16&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Ritik's top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=b14nk-dev&show_icons=true&include_all_commits=true&hide_border=true&border_radius=16&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ritik's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b14nk-dev&layout=compact&hide_border=true&border_radius=16&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Ritik's top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ritikNegi2022&hide_border=true&border_radius=16&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=b14nk-dev&hide_border=true&border_radius=16&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ritikNegi2022?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikNegi2022&theme=github_dark" alt="Repositories per language" />
+  <a href="https://github.com/b14nk-dev?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b14nk-dev&theme=github_dark" alt="Repositories per language" />
   </a>
 </p>
 
@@ -161,9 +161,9 @@ Reusable City, Product and Attraction pages across **10+ tourism sections**, plu
 [![Email](https://img.shields.io/badge/Say_hi-negiritik01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiritik01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-negi-39a1a32b8/)
 [![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-FF6F91?style=for-the-badge&logo=vercel&logoColor=white)](https://ritik-negi.vercel.app/)
-[![Résumé](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ritikNegi2022/ritikNegi2022/raw/main/assets/Ritik_Negi_SDE_2_Resume.pdf)
+[![Résumé](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/b14nk-dev/b14nk-dev/raw/main/assets/Ritik_Negi_SDE_2_Resume.pdf)
 
-<img src="https://komarev.com/ghpvc/?username=ritikNegi2022&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=b14nk-dev&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 <sub>Started coding as fun. Now everyday is as calm as hell. :)</sub>
 
